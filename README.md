@@ -1,0 +1,2 @@
+# -Calculation-of-M-polynomial-topological-indices-and-entropy-of-topological-indices
+To apply the four-step computer-based computational technique on graph G, please follow the algorithm provided below. Step 1: Drawing graph G using the drawing tool on the ChemSpider website and calculate its edge matrix B. Step 2: Using a MATLAB program, input the matrix B to calculate topological and entropy of indices. 
